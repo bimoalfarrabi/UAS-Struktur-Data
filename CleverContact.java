@@ -270,7 +270,7 @@ class BinaryTree {
   }
 }
 
-public class Phone {
+public class CleverContact {
 
   public static void main(String s[]) {
     BinaryTree b = new BinaryTree();
