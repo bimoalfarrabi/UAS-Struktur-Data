@@ -276,7 +276,7 @@ public class CleverContact {
     BinaryTree b = new BinaryTree();
     Scanner sc = new Scanner(System.in);
     int ch, ch1;
-    System.out.print("\n*****PHONEBOOK***\n");
+    System.out.print("\n*****Clever Contact***\n");
 
     do {
       //   System.out.println("\n-------------------------------------------------------------------------------------");
